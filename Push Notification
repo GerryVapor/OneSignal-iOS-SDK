@@ -1,0 +1,1 @@
+onesignal install-sdk --type iOS --entrypoint MyApp --lang objc --appid <APPID>
